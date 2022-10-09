@@ -1,4 +1,4 @@
-# Data_Structure_part1
-all data structure Collection, List, Stack, Queue, HashTable implements all without seeing the original implements in book.
+# Data_Structure_part2
+Challenge:  Without seeing the original implementations in the book, you can implement tree traversal, BST, Heap, AVL, Splay, Sort, Graph Rep, and Traversal.
 
-This is my practice and review :D
+This is my practice and review. Tell me if something does not work :D
